@@ -8,6 +8,7 @@ Materiales:
 - Sensor DHT11 (Humedad y Temperatura Ambiental)
 - Sensor (Humedad de Tierra)
 - Motor Servo
+- Pantalla 16x2
 - Ventidor de PC
 - Fuente de Alimentación de PC
 - Placa de 4 Relés
