@@ -1,30 +1,32 @@
-# InvernArduino v1.0
+# InvernArduino v1.1
 Invernadero Automatizado con Arduino
 
 Creado por Urtzi DV. Estudiante de FPII de Automatización y Robótica Industrial
 
 Materiales Electrónicos:
 - Arduino UNO
-- Sensor DHT11 (Humedad y Temperatura Ambiental)
+- Sensor DHT22 (Humedad y Temperatura Ambiental)
 - Sensor FC-28 (Humedad de Tierra)
-- Motor Servo
+- 2 Motores Servo
 - Pantalla 16x2
-- Ventidor de PC
-- Fuente de Alimentación de PC
+- 2 Ventidores de PC
+- Fuente de Alimentación (220v AC a 12v DC)
 - Placa de 4 Relés
 - Protoboard
 - 3 Tiras de LED de 30cm
-- Bomba de Agua
+- Bomba de Agua 12v (10 L/min)
 - Cable de 0.75mm
 
 Otros Materiales:
 - Tuberia de Riego
 - Goteros
+- T para tuberias
 - Caja de Registro (Para meter todas las conexiones electricas)
 - Tubo Termoretractil
 - Listones de Madera
 - 2 Visagras
 - Escuadras Metalicas de 1x1cm
+- Escuadras 4x4cm
 - Tirafondos
 - Plastico Transparente
 
