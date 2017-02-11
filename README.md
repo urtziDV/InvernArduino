@@ -1,4 +1,4 @@
-# InvernArduino v1.1
+# InvernArduino v1.2.1
 Invernadero Automatizado con Arduino
 
 Creado por Urtzi DV. Estudiante de FPII de Automatización y Robótica Industrial
